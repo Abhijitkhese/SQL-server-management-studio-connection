@@ -1,0 +1,5 @@
+Command =   sqllocaldb create "local"
+
+
+Server name = (LocalDB)\local
+
